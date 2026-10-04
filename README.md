@@ -145,8 +145,8 @@
 
 - [x] Learn C++ and Python fundamentals
 - [x] Start competing in contests regularly
-- [ ] Reach **Specialist** on Codeforces
-- [ ] Reach **4★** on CodeChef
+- [ ] Reach **Pupil** on Codeforces
+- [ ] Reach **3★** on CodeChef
 - [ ] Solve 300+ problems on LeetCode
 - [ ] Build and publish an AI/ML project
 - [ ] Contribute to an open-source repository
