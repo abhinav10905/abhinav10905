@@ -37,7 +37,7 @@
 
 | Slot | Skill | Level | Current Quest |
 |:----:|-------|:------|---------------|
-| 🛡️ [1] | C++ & STL | `▰▰▰▰▰▰▰▰▱▱` **80%** | Fast, clean contest code |
+| 🛡️ [1] | C++ & STL | `▰▰▰▰▱▱▱▱▱▱` **40%** | Fast, clean contest code |
 | 🐍 [2] | Python | `▰▰▰▰▰▰▰▰▱▱` **80%** | Scripting & data tools |
 | 🎯 [3] | Problem Solving | `▰▰▰▰▰▱▱▱▱▱` **50%** | Daily contest grind |
 | 📊 [4] | Data Structures & Algorithms | `▰▰▰▰▰▱▱▱▱▱` **50%** | Graphs, DP, binary search |
@@ -109,9 +109,8 @@
 
 | Quest | Description | Stack | Status |
 |-------|-------------|-------|--------|
-| 🧩 **CP Solutions** | My accepted solutions from Codeforces, CodeChef, LeetCode & AtCoder | `C++` `Python` | 🟢 Ongoing |
+| 🧩 **CP Solutions** | My accepted solutions from Codeforces, CodeChef, LeetCode & AtCoder | `Python` | 🟢 Ongoing |
 | 📈 **Data Analysis Project** | Exploring datasets and plotting insights | `Pandas` `NumPy` `Matplotlib` | 🟡 In Progress |
-| 🤖 **ML Experiments** | Small models to learn the fundamentals of AI/ML | `Python` | 🟡 In Progress |
 
 > ✏️ *Replace these rows with links to your real repositories, e.g. `[CP Solutions](https://github.com/abhinav10905/your-repo)`.*
 
