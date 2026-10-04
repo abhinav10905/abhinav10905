@@ -108,7 +108,6 @@
 | Quest | Description | Stack | Status |
 |-------|-------------|-------|--------|
 | 🧩 **CP Solutions** | My accepted solutions from Codeforces, CodeChef, LeetCode & AtCoder | `Python` | 🟢 Ongoing |
-| 📈 **Data Analysis Project** | Exploring datasets and plotting insights | `Pandas` `NumPy` `Matplotlib` | 🟡 In Progress |
 
 
 ---
