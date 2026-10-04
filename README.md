@@ -16,7 +16,7 @@
 
 - 🎓 Second-year Computer Science Engineering student at **VIT Bhopal University**
 - 🧩 I enjoy algorithmic problem solving and take part in contests regularly
-- 📚 Exploring AI/ML, digital systems, and core CS fundamentals
+- 📚 Exploring AI/ML
 - 🛠️ Comfortable in **C++** and **Python**, and building small projects with data tools
 - 🎯 Currently aiming to climb the rating ladder on Codeforces and CodeChef
 
