@@ -112,7 +112,6 @@
 | 🧩 **CP Solutions** | My accepted solutions from Codeforces, CodeChef, LeetCode & AtCoder | `Python` | 🟢 Ongoing |
 | 📈 **Data Analysis Project** | Exploring datasets and plotting insights | `Pandas` `NumPy` `Matplotlib` | 🟡 In Progress |
 
-> ✏️ *Replace these rows with links to your real repositories, e.g. `[CP Solutions](https://github.com/abhinav10905/your-repo)`.*
 
 ---
 
