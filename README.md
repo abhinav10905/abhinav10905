@@ -45,7 +45,6 @@
 | 🗄️ [6] | SQL / MySQL | `▰▰▰▰▱▱▱▱▱▱` **40%** 
 | 🌿 [7] | Git & GitHub | `▰▰▰▰▰▰▱▱▱▱` **60%** 
 
-> 💡 *Edit the bars to match your real level. Each `▰` is 10%.*
 
 ---
 
@@ -60,7 +59,6 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abhinav10905?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/abhinav10905/)
 
 </div>
 
