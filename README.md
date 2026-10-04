@@ -35,15 +35,15 @@
 
 ## ⚔️ [ SKILL TREE — ACTIVE QUESTS ]
 
-| Slot | Skill | Level | Current Quest |
-|:----:|-------|:------|---------------|
-| 🛡️ [1] | C++ & STL | `▰▰▰▰▱▱▱▱▱▱` **40%** | Fast, clean contest code |
-| 🐍 [2] | Python | `▰▰▰▰▰▰▰▰▱▱` **80%** | Scripting & data tools |
-| 🎯 [3] | Problem Solving | `▰▰▰▰▰▱▱▱▱▱` **50%** | Daily contest grind |
-| 📊 [4] | Data Structures & Algorithms | `▰▰▰▰▰▱▱▱▱▱` **50%** | Graphs, DP, binary search |
-| 🤖 [5] | AI / ML | `▰▰▰▱▱▱▱▱▱▱` **30%** | NumPy → Pandas → Models |
-| 🗄️ [6] | SQL / MySQL | `▰▰▰▰▱▱▱▱▱▱` **40%** | Queries & database design |
-| 🌿 [7] | Git & GitHub | `▰▰▰▰▰▰▱▱▱▱` **60%** | Daily commits, clean repos |
+| Slot | Skill | Level 
+|:----:|-------|:------
+| 🛡️ [1] | C++ & STL | `▰▰▰▰▱▱▱▱▱▱` **40%** 
+| 🐍 [2] | Python | `▰▰▰▰▰▰▰▰▱▱` **80%** 
+| 🎯 [3] | Problem Solving | `▰▰▰▰▰▱▱▱▱▱` **50%** 
+| 📊 [4] | Data Structures & Algorithms | `▰▰▰▰▰▱▱▱▱▱` **50%** 
+| 🤖 [5] | AI / ML | `▰▰▰▱▱▱▱▱▱▱` **30%** 
+| 🗄️ [6] | SQL / MySQL | `▰▰▰▰▱▱▱▱▱▱` **40%** 
+| 🌿 [7] | Git & GitHub | `▰▰▰▰▰▰▱▱▱▱` **60%** 
 
 > 💡 *Edit the bars to match your real level. Each `▰` is 10%.*
 
