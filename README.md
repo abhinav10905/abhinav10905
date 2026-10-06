@@ -108,7 +108,7 @@
 | Quest | Description | Stack | Status |
 |-------|-------------|-------|--------|
 | 🧩 **CP Solutions** | My accepted solutions from Codeforces, CodeChef, LeetCode & AtCoder | `Python` | 🟢 Ongoing |
-| **Striver DSA Sheet** | curated and topic-wise list of data structures and algorithms problems | 'Python` | 🟢 Ongoing |
+| **Striver DSA Sheet** | curated and topic-wise list of data structures and algorithms problems | `Python` | 🟢 Ongoing |
 
 
 ---
